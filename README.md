@@ -1,5 +1,5 @@
-# hola-mundo
-Nuevo repositorio de prueba
+# HOLA MUNDO
+Nuevo repositorio.
 
 Nestor Martinez
 
